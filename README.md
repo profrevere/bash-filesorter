@@ -1,4 +1,4 @@
-#Fork Notes
+# Fork Notes
 Re-writing/modifying this script for inclusion in my GoPro video export and rendering workflows.
 
 -------
